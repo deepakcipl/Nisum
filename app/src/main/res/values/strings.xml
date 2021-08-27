@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GLCodingChallenge</string>
+    <string name="toast_message">Please enter an acronym</string>
+    <string name="empty">No Result Found</string>
+</resources>

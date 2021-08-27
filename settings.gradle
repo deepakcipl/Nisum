@@ -1,0 +1,3 @@
+include ':networkmodule'
+include ':app'
+rootProject.name = "GLCodingChallenge"
